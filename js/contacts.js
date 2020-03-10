@@ -16,11 +16,5 @@ var peeps = [
     email: 'thejugger@jupiter.com',
     tel: '+55551234',
     loc: [816040000, 740550000]
-  },
-  {
-    name: 'Saturn Sasquatch',
-    email: 'sassysquatch@saturn.com',
-    tel: '+47755551234',
-    loc: [397592833, 993857289]
   }
 ];
